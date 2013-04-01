@@ -1,6 +1,8 @@
 python-package-boilerplate
 ==========================
 
+[![Build Status](https://travis-ci.org/mtchavez/python-package-boilerplate.png?branch=master)](https://travis-ci.org/mtchavez/python-package-boilerplate)
+
 Boilerplate for a Python Package
 
 ## Package

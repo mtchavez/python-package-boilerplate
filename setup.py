@@ -2,7 +2,7 @@ import setuptools
 from packagename.version import Version
 
 
-setuptools.setup(name='pytest-cov',
+setuptools.setup(name='py-boilerplate',
                  version=Version('1.0.0').number,
                  description='Python Package Boilerplate',
                  long_description=open('README.md').read().strip(),

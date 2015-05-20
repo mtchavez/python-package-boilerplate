@@ -1,6 +1,7 @@
+from datetime import date
+
 from tests import *
 from tests.helpers import *
-from datetime import date
 
 
 class TestExample(unittest.TestCase):

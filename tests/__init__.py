@@ -1,5 +1,5 @@
 import pytest
-import tests_helper
+from tests.tests_helper import *
 import unittest
 from tests.helpers import *
 
